@@ -30,8 +30,13 @@ Workflow for the Terrestrial Ecosystem Protection Index
 ### EAI_terr
 Workflow for the Ecosystem Area Index 
 
+## Repos for spatial dataset preparation
+
+### LCC_terr_8class
+Workflow to combine all the National Invasive Alien Plant Survey 2024 data with the 2022 Land Cover - to make an 8 class land cover. This is free to use as it contains no embargoed information. 
+
 ## Contributors
-Andrew Skowno, Maphale Monyeki, Anisha Dayaram, shae-Lynn Hendricks, Kagiso Mogajane
+Andrew Skowno, Maphale Monyeki, Anisha Dayaram, Shae-Lynn Hendricks, Kagiso Mogajane
 
 ## Contact
-SANBI Terrestrial Ecosystems Programme - Anisha Dayaram (a.dayaram@sanbi.org.za) or Mapahle Monyeki (m.monyeki@sanbi.org.za)
+SANBI Terrestrial Ecosystems Programme - Anisha Dayaram (a.dayaram at sanbi.org.za) or Mapahle Monyeki (m.monyeki at sanbi.org.za)
