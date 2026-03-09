@@ -4,7 +4,7 @@ This account hosts workflows and data used to produce ecosystem indicators linke
 
 ## Repositories for the National Biodiversity Assessment 2025 (<https://nba.sanbi.org.za>)
 
-### [LCC_terr_RLE](https://github.com/SANBI-TER-ECO/INV_terr_RLE)
+### [LCC_terr_RLE](https://github.com/SANBI-TER-ECO/LCC_terr_RLE)
 
 NBA 2025 workflows for various land-cover change analyses and condition analyses used in computation of IUCN terrestrial Red List of Ecosystems - Criteria A, B and D.
 
