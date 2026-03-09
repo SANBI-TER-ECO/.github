@@ -28,7 +28,7 @@ To be added - Workflow for calculating provincial statistics on land cover chang
 
 NBA 2025 workflow to compute the terrestrial Ecosystem Protection Level indicator.
 
-## Repositories for additional ecosystem indicators 
+## Repositories for additional ecosystem indicators
 
 ### [TEPI_terr](https://github.com/SANBI-TER-ECO/TEPI_terr)
 
