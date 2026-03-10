@@ -40,9 +40,9 @@ Workflow for the Ecosystem Area Index which tracks terrestrial ecosystem extent 
 
 ## Repositories for spatial data preparation
 
-### [LCC_terr_8class](https://github.com/SANBI-TER-ECO/LCC_terr_8class)
+### [LCC_terr_8-9class](https://github.com/SANBI-TER-ECO/LCC_terr_8-9class)
 
-Workflow to combine the National Invasive Alien Plant Survey 2024 data with the 2022 National Land Cover - to make an 8 class land cover. This is free to use as it contains no embargoed information.
+Workflow to combine the National Invasive Alien Plant Survey 2024 data with the 2022 National Land Cover - to make an 8 class land cover. This forms the basis of a 9 class land cover that incorporates ecosystem condition data from a variety of sources. This is free to use as it contains no embargoed information.
 
 ## Contributors
 
