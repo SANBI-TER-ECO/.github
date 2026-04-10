@@ -18,7 +18,7 @@ NBA 2025 workflow for that compiles the terrestrial Red List of Ecosystems.
 
 ### [RLIe_terr](https://github.com/SANBI-TER-ECO/RLIe_terr.git)
 
-To be added - Red List Index for Ecosystems workflow
+NBA 2025 workflow that compiles the terrestrial Red List Index of ecosystems.
 
 ### LCC_terr_PROV
 
