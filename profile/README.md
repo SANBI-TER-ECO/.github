@@ -49,6 +49,10 @@ Workflow for the Ecosystem Area Index which tracks terrestrial ecosystem extent 
 
 Workflow to combine the National Invasive Alien Plant Survey 2024 data with the 2022 National Land Cover - to make an 8 class land cover. This forms the basis of a 9 class land cover that incorporates ecosystem condition data from a variety of sources. This is free to use as it contains no embargoed information.
 
+## Repositories for generating technical reports
+
+### Detailed summary of the RLE 2025 report
+
 ## Contributors
 
 Andrew Skowno, Maphale Monyeki, Anisha Dayaram, Shae-Lynn Hendricks, Kagiso Mogajane
