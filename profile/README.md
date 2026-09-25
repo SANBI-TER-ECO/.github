@@ -49,6 +49,18 @@ Workflow for the Ecosystem Area Index which tracks terrestrial ecosystem extent 
 
 Workflow to combine the National Invasive Alien Plant Survey 2024 data with the 2022 National Land Cover - to make an 8 class land cover. This forms the basis of a 9 class land cover that incorporates ecosystem condition data from a variety of sources. This is free to use as it contains no embargoed information.
 
+## Changes in Terrestrial Ecosystem Threat Status
+
+Analysis and reporting comparing South Africa's 2022 gazetted list of threatened
+ecosystems against the NBA 2025 Red List of Ecosystems (RLE) assessment for the
+terrestrial realm.
+
+### Overview
+- Compares 2022 gazetted RLE list vs NBA 2025 RLE list
+- Classifies each ecosystem type's status change (Unchanged / Uplisted / Downlisted / New types)
+- Produces summary statistics, a status change map, biome-level breakdowns,
+  a transition matrix, and criteria triggered tables
+
 ## Repositories for generating technical reports
 
 ### Detailed summary of the RLE 2025 report
