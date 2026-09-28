@@ -51,7 +51,7 @@ Workflow to combine the National Invasive Alien Plant Survey 2024 data with the 
 
 ## Changes in Terrestrial Ecosystem Threat Status
 
-### [2022 gazetted list vs NBA 2025 list of threatened ecosystems](https://github.com/SANBI-TER-ECO/Review-of-the-NBA-2025-list-of-threatened-ecosystems.git)
+### [2022 gazetted list vs NBA 2025 list of threatened ecosystems](https://github.com/SANBI-TER-ECO/Review-NBA-2025-RLE-terr.git)
 
 
 Analysis and reporting comparing South Africa's 2022 gazetted list of threatened
